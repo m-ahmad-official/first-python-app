@@ -23,7 +23,7 @@ def get_country_info(country_name):
 
 st.set_page_config(page_title="Country Info", page_icon="🌍", layout="centered")
 
-st.markdown("<h3 style='text-align: center;'>🚀 Growth Mindset Challenge: Web App with Streamlit</h3>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>🚀 My First Python App Using Streamlit!</h3>", unsafe_allow_html=True)
 st.markdown("---")
 
 st.title("🌍 Country Information App")
